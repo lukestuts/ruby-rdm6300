@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.email       = 'lukestuts@gmail.com'
   s.files       = ["lib/rdm6300.rb"]
   s.homepage    =
-    'https://rubygems.org/gems/rdm6300'
+    'https://github.com/lukestuts/ruby-rdm6300'
   s.license       = 'GPL-3'
 end
